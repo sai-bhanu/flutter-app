@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "673776814688",
+    "project_id": "kissan-konnect-2024b",
+    "storage_bucket": "kissan-konnect-2024b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673776814688:android:c8cb8b792073be3ccdd105",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673776814688-gh1jl2mebrmqqvi916p1un1pdcmnanbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app",
+            "certificate_hash": "5ac2ac8eb4ef3322dabdeac3cc840da0cc8820da"
+          }
+        },
+        {
+          "client_id": "673776814688-5g0dvnpqgjmeejlsoj7rcna62k8nnn4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkYRGVhh0Sw3e5ojIvKPZRwbAQJbnvtk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673776814688-5g0dvnpqgjmeejlsoj7rcna62k8nnn4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
